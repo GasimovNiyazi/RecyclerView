@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="msg_fullname">Adam Jones</string>
+    <string name="msg_position">Android Developer</string>
+    <string name="msg_mynotes">My Notes</string>
+    <string name="msg_date">21 Mar 2019</string>
+</resources>
